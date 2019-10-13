@@ -1,0 +1,14 @@
+.flex {
+	display: flex;
+}
+h1 {
+	font-family: Arial ;
+	font-size: 2.5em;
+	border-bottom: 2px solid #87B822;
+}
+div.allInfoDiv {
+	justify-content: space-between;
+}
+label {
+	color: #87B822;
+}
